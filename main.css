@@ -1,0 +1,29 @@
+#result {
+  display:block;
+  width: 120px;
+  height:30px;
+  border: solid grey;
+  margin-bottom:10px;
+}
+
+#container {
+  display:inline-block;
+  text-align: center;
+  border: solid 1px black;
+  width: 120px;
+  height: 130px;
+}
+
+.fifthLine {
+  width:120px;
+}
+
+#AC {
+  display:inline-block;
+  width:45%;
+}
+
+#equal {
+  display:inline-block;
+  width:45%;
+}
